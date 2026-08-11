@@ -1,10 +1,26 @@
 const insightsPosts = [
 
     {
+    date: "Post date: 08-10-2026",
+    category: " Vaccine update ",
+    tags: ["Vaccines", "mRNA", "Adjuvants", "Manufacturing"],
+    title: "July 2026 vaccine updates",
+    summary: ` 
+    <p> Vaccine developments in July highlighted increasing investment in manufacturing readiness, continued rapid adaptation of mRNA respiratory vaccines, and more selective validation of vaccine platforms across infectious-disease targets. Serum Institute of India committed more than $100 million toward manufacturing readiness for the M72/AS01E tuberculosis vaccine while its approximately 20,000-participant Phase III study remains ongoing. The agreement includes transfer of M72 antigen manufacturing technology to Serum Institute, with GSK continuing to supply the AS01E adjuvant. The investment illustrates a shift toward establishing manufacturing capacity before pivotal readout for high-priority global health vaccines, potentially shortening the path from successful efficacy data to large-scale supply. </p>
+    <p> In mRNA vaccines, Pfizer and BioNTech received European authorization for their XFG-adapted COVID-19 vaccine for the 2026-27 season after beginning manufacturing ahead of authorization. This continues to demonstrate one of the clearest advantages of the mRNA platform: rapid strain adaptation supported by an established regulatory and manufacturing framework. At the same time, Moderna reported that the interim analysis of its Phase III mRNA-1403 norovirus vaccine study did not meet the statistical threshold for early success. The study remains ongoing and an additional cohort is planned, but the result reinforces that successful mRNA deployment outside established respiratory applications remains dependent on pathogen-specific biology and clinical efficacy. </p>
+    <p> GSK also advanced lifecycle development of Bexsero, its recombinant meningococcal B vaccine, with the European Medicines Agency accepting a label-extension application for a single booster dose in previously vaccinated individuals aged 10 years and older. Separately, July publications continued to expand the evidence base for protein and adjuvant platforms, including clinical data supporting Novavax's Matrix-M in a combined COVID-19 and influenza vaccine and preclinical work evaluating Matrix-M-adjuvanted H5N1 vaccination through intramuscular and intranasal administration. </p>
+    <p> Overall, the July landscape continues to support a diversified vaccine technology environment rather than convergence around a single platform. mRNA retains a strong advantage in rapid respiratory strain adaptation, while recombinant protein and adjuvant platforms continue to generate opportunities through combination vaccines, lifecycle extension, and global health applications. Manufacturing capability is also increasingly becoming an earlier strategic consideration, particularly where rapid deployment after successful clinical development could have substantial public-health value. </p>
+    <p> References: <a href="https://www.seruminstitute.com/gates-medical-research-institute-and-the-serum-institute-of-india-reach-agreement.php">Serum Institute of India</a>; <a href="https://www.pfizer.com/news/press-release/press-release-detail/european-commission-authorizes-pfizer-and-biontech-xfg">Pfizer</a>; <a href="https://investors.modernatx.com/quarterly-results">Moderna</a>; <a href="https://www.gsk.com/en-gb/media/press-releases/european-medicines-agency-accepts-submission-to-update-bexsero-label-for-1-dose-meningitis-b-booster-in-10plus-year-olds/">GSK</a>; <a href="https://www.novavax.com/science-technology/publications">Novavax</a> </p>
+    `,
+    link: "insights.html#post-vaccine-update-july-2026"
+    },
+
+    
+    {
     date: "Post date: 07-22-2026",
     category: " Therapeutics update ",
     tags: ["Therapeutics", "Obesity", "Gene Editing", "Oncology", "Neurodegeneration"],
-    title: "June therapeutics update: gene editing validation, obesity competition and oncology consolidation",
+    title: "June 2026 therapeutics update",
     summary: `
     <p> June delivered an important validation for in vivo gene editing. Intellia reported positive Phase III results for lonvoguran ziclumeran, a one-time CRISPR-based treatment for hereditary angioedema. The therapy reduced monthly attacks by 87% compared with placebo, and most treated patients remained free of both attacks and preventive therapy during the six-month evaluation period. The results provide the strongest late-stage evidence to date that systemic in vivo gene editing can produce a clinically meaningful benefit and support Intellia’s planned regulatory submission. </p>
     
@@ -45,7 +61,7 @@ const insightsPosts = [
     date: "Post date: 07-14-2026",
     category: " Vaccine update ",
     tags: ["Vaccines", "mRNA", "Conjugate Vaccines", "Manufacturing", "Outbreak Preparedness"],
-    title: "Vaccine updates June 2026",
+    title: "June 2026 vaccine updates",
     summary: ` 
     <p> Vaccine developments through the end of June highlighted progress across mRNA influenza, high-valency conjugate vaccines, multivalent pediatric vaccines, and outbreak-response manufacturing. Moderna’s seasonal influenza candidate, mRNA-1010, received unanimous support from an FDA advisory committee, which concluded that its benefit-risk profile was favorable in adults aged 50 years and older. If approved, the vaccine could establish an important non-COVID regulatory precedent for routine seasonal use of the mRNA-LNP platform. Moderna also aligned its research, manufacturing, and commercial leadership around planned launches of influenza, influenza-COVID combination, and norovirus vaccines in 2027–2028. </p>
     
@@ -65,7 +81,7 @@ const insightsPosts = [
     date: "Post date: 05-25-2026",
     category: " Therapeutics update ",
     tags: ["Therapeutics", "ADC", "Gene Editing", "Radioligand Therapy", "Obesity"],
-    title: "Therapeutics update May 2026 ",
+    title: "May 2026 therapeutics update",
     summary: `
     <p>
     Over the past month, several therapeutics developments reinforced a broader industry pattern: capital continues to concentrate around platforms that combine strong clinical differentiation with credible development, regulatory, and manufacturing paths.
@@ -110,7 +126,7 @@ const insightsPosts = [
     date: "Post date: 05-20-2026",
     category: "Vaccine update",
     tags: ["Vaccines", "mRNA", "Adjuvants", "Respiratory Vaccines"],
-    title: "Vaccine updates May 2026",
+    title: "May 2026 vaccine updates",
     summary: `
     <p> Recent vaccine updates over the past two weeks highlight continued movement across respiratory vaccines, adjuvant platforms, and RNA vaccine strategy. </p>
     
