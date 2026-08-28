@@ -1,5 +1,35 @@
 const insightsPosts = [
 
+{
+  date: "Post date: 08-28-2026",
+  category: "Therapeutics update ",
+  tags: ["Therapeutics","Obesity","Gene Editing","Oncology","Drug Manufacturing"],
+  title: "July/August 2026 therapeutics update",
+  summary: `
+    <p> In obesity, the Centers for Medicare & Medicaid Services launched the Medicare GLP-1 Bridge on July 1. The program gives eligible Medicare Part D beneficiaries access to participating weight-loss medicines for $50 per month through the end of 2027, with manufacturers receiving a net price of $245 per month. The program expands access while establishing a closely watched pricing benchmark for the obesity market. Roche’s Genentech unit also broadened its metabolic pipeline by licensing HM17321 from Hanmi Pharmaceutical for $190 million upfront and up to approximately $2.3 billion in total payments. The Phase I UCN2 analog uses a non-incretin mechanism and is being developed to reduce fat while preserving lean body mass, potentially complementing existing GLP-1 therapies.</p>
+    <p> Gene editing continued to move toward broader clinical use. The FDA expanded the approval of Casgevy, developed by Vertex and CRISPR Therapeutics, to children as young as two years with sickle cell disease or transfusion-dependent beta thalassemia. Casgevy edits a patient’s blood-forming stem cells outside the body before they are returned to the patient. Separately, Beam Therapeutics dosed the first patient in the pivotal cohort for BEAM-302, an investigational treatment for alpha-1 antitrypsin deficiency. BEAM-302 delivers a base editor directly to the liver using lipid nanoparticles and is designed to correct the disease-causing mutation inside the body. The pivotal cohort may support an accelerated approval application if the clinical results remain favorable.</p>
+    <p> Oncology investment remained focused on differentiated platforms. Novartis agreed to acquire Myricx Bio for $1.1 billion upfront, with up to $400 million in additional milestone payments. Myricx is developing antibody-drug conjugates that use N-myristoyltransferase inhibitors as a new class of payload. This approach could provide an alternative to the topoisomerase inhibitors used in many current ADC programs and may help address resistance. The FDA also approved daraxonrasib (Rasonque) for previously treated metastatic pancreatic cancer. The approval provides the first commercial validation of a drug designed to inhibit multiple active forms of RAS, one of the most important and historically difficult cancer targets.</p>
+    <p> The FDA approved a subcutaneous formulation of Leqembi (lecanemab) that enables treatment initiation with a brief weekly at-home injection rather than beginning with biweekly intravenous infusions. Payer coverage and provider adoption will determine how broadly at-home initiation replaces infusion-center starts.</p>
+    <p> Lilly and Resilience committed $750 million to expand production of KwikPen injection devices used for diabetes and obesity medicines, with full operations expected in early 2027. The FDA separately proposed a simplified registration framework for distributed manufacturing networks. In another action, the agency identified circumstances in which streamlined nonclinical programs may be appropriate for well-characterized biologic and ADC platforms. The manufacturing-registration proposal remains subject to public comment and potential revision, while sponsors considering reduced nonclinical programs are expected to consult the relevant FDA review division.</p>
+    <p> Taken together, these developments show that competitive advantage is increasingly determined by more than clinical efficacy alone. Reimbursement, patient-friendly delivery, differentiated platform technology, and reliable commercial manufacturing are becoming central to how therapeutic programs are valued and adopted.</p>
+    
+    <p>
+      References:
+      <a href="https://www.cms.gov/newsroom/press-releases/cms-launches-medicare-glp-1-bridge-expanding-access-glp-1-medications">CMS</a>;
+      <a href="https://hanmipharm.com/about/investor-relations/press/detail-4843.hm">Hanmi Pharmaceutical</a>;
+      <a href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease">FDA, Casgevy</a>;
+      <a href="https://investors.beamtx.com/news-releases/news-release-details/beam-therapeutics-reports-second-quarter-2026-financial-results">Beam Therapeutics</a>;
+      <a href="https://www.novartis.com/news/media-releases/novartis-agrees-acquire-myricx-bio-advancing-next-generation-antibody-drug-conjugate-innovation-novel-nmti-payload-expanding-options-cancer-patients">Novartis</a>;
+      <a href="https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-daraxonrasib-metastatic-pancreatic-adenocarcinoma">FDA, daraxonrasib</a>;
+      <a href="https://investors.biogen.com/news-releases/news-release-details/fda-approves-leqembi-iqlikr-lecanemab-irmb-subcutaneous">Biogen, Leqembi</a>;
+      <a href="https://resilience.com/news/resilience-and-lilly-invest-750-million">Resilience</a>;
+      <a href="https://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration">FDA, manufacturing registration</a>;
+      <a href="https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/cder-streamlined-nonclinical-studies-and-acceptable-new-approach-methodologies-nams">FDA, streamlined nonclinical studies</a>.
+    </p>
+    `,
+  link: "insights.html#post-Therapeutics-July-August-2026"
+},
+    
     {
     date: "Post date: 08-10-2026",
     category: " Vaccine update ",
